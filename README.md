@@ -13,3 +13,5 @@
 *   Data Structure
 #### [03-PyEx](https://github.com/siniorone/PyExercises/blob/main/03_PyEx.ipynb) :
 *   String
+#### [04-PyEx](https://github.com/siniorone/PyExercises/blob/main/04_PyEx.ipynb) :
+*   List
