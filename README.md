@@ -15,7 +15,8 @@
 *   String
 #### [04-PyEx](https://github.com/siniorone/PyExercises/blob/main/04_PyEx.ipynb) :
 *   List
-#### [05-PyEx](https://github.com/siniorone/PyExercises/blob/main/04_PyEx.ipynb) :
+#### [05-PyEx](https://github.com/siniorone/PyExercises/blob/main/05_PyEx.ipynb) :
 *   Tuple
 *   Set 
-
+#### [06-PyEx](https://github.com/siniorone/PyExercises/blob/main/06_PyEx.ipynb) :
+*   Dictionary
