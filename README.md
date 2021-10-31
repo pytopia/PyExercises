@@ -20,3 +20,8 @@
 *   Set 
 #### [06-PyEx](https://github.com/siniorone/PyExercises/blob/main/06_PyEx.ipynb) :
 *   Dictionary
+#### [07-PyEx](https://github.com/siniorone/PyExercises/blob/main/07_PyEx.ipynb) :
+*   len()
+*   sort()
+*   sorted() 
+*   range()
