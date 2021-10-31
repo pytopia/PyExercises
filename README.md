@@ -24,4 +24,5 @@
 *   len()
 *   sort()
 *   sorted() 
+*   input()
 *   range()
