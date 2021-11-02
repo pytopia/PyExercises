@@ -28,3 +28,5 @@
 *   range()
 #### [08-PyEx](https://github.com/siniorone/PyExercises/blob/main/08_PyEx.ipynb) :
 *   Defining Functions
+#### [09-PyEx](https://github.com/siniorone/PyExercises/blob/main/09_PyEx.ipynb) :
+*   Lambda
