@@ -34,3 +34,8 @@
 *   format()
 *   F-String
 *   sep= & end= KeywordArgument
+#### [11-PyEx](https://github.com/siniorone/PyExercises/blob/main/11_PyEx.ipynb) :
+*    join()
+*   split()
+*   strip()
+
