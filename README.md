@@ -39,3 +39,5 @@
 *   split()
 *   strip()
 
+#### [12-PyEx](https://github.com/siniorone/PyExercises/blob/main/12_PyEx.ipynb) :
+*   Conditional Statements
