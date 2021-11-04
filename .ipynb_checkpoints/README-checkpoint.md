@@ -43,3 +43,7 @@
 *   Conditional Statements
 #### [13-PyEx](https://github.com/siniorone/PyExercises/blob/main/13_PyEx.ipynb) :
 *   For Loop
+#### [14-PyEx](https://github.com/siniorone/PyExercises/blob/main/14_PyEx.ipynb) :
+*   While Loop
+*   Break & Continue
+
