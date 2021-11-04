@@ -26,3 +26,20 @@
 *   sorted() 
 *   input()
 *   range()
+#### [08-PyEx](https://github.com/siniorone/PyExercises/blob/main/08_PyEx.ipynb) :
+*   Defining Functions
+#### [09-PyEx](https://github.com/siniorone/PyExercises/blob/main/09_PyEx.ipynb) :
+*   Lambda
+#### [10-PyEx](https://github.com/siniorone/PyExercises/blob/main/10_PyEx.ipynb) :
+*   format()
+*   F-String
+*   sep= & end= KeywordArgument
+#### [11-PyEx](https://github.com/siniorone/PyExercises/blob/main/11_PyEx.ipynb) :
+*    join()
+*   split()
+*   strip()
+
+#### [12-PyEx](https://github.com/siniorone/PyExercises/blob/main/12_PyEx.ipynb) :
+*   Conditional Statements
+#### [13-PyEx](https://github.com/siniorone/PyExercises/blob/main/13_PyEx.ipynb) :
+*   For Loop

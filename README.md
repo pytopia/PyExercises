@@ -41,3 +41,5 @@
 
 #### [12-PyEx](https://github.com/siniorone/PyExercises/blob/main/12_PyEx.ipynb) :
 *   Conditional Statements
+#### [13-PyEx](https://github.com/siniorone/PyExercises/blob/main/13_PyEx.ipynb) :
+*   For Loop
