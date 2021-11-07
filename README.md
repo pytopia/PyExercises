@@ -46,4 +46,6 @@
 #### [14-PyEx](https://github.com/siniorone/PyExercises/blob/main/14_PyEx.ipynb) :
 *   While Loop
 *   Break & Continue
-
+#### [15-PyEx](https://github.com/siniorone/PyExercises/blob/main/15_PyEx.ipynb) :
+*   zip()
+*   map() 
