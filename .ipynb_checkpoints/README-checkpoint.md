@@ -50,15 +50,15 @@
 #### [15-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/15_PyEx.ipynb) :
 *   zip()
 *   map() 
-#### [16-PyEx]()
+#### 16-PyEx
 *   filter() 
 *   List Comprehension 
 *   Dict Comprehension 
-#### [17-PyEx]()
+#### 17-PyEx
 *   Classes
-#### [18-PyEx]()
+#### 18-PyEx
 *   Class Inheritence  
-#### [19-PyEx]()
+#### 19-PyEx
 *   File Input Output
-#### [20-PyEx]()
+#### 20-PyEx
 *   Modular Programming
