@@ -63,8 +63,8 @@
 #### 20-PyEx
 *   Modular Programming
 #### 21-PyEx
-*   The Meaning of Underscore _ 
+*   The Meaning of Underscore '_' 
 #### 22-PyEx
 *   Pathlib
 #### 23-PyEx
-*   Error Handling.ipynb
+*   Error Handling
