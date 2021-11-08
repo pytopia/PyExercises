@@ -64,7 +64,7 @@
 *   Modular Programming
 #### 21-PyEx
 *   The Meaning of Underscore '_' 
-#### 22-PyEx
+#### [22-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/22_PyEx.ipynb)
 *   Pathlib
 #### 23-PyEx
 *   Error Handling
