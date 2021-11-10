@@ -50,7 +50,7 @@
 #### [15-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/15_PyEx.ipynb) :
 *   zip()
 *   map() 
-#### 16-PyEx
+#### 16-PyEx(https://github.com/siniorone/PyExercises/blob/main/Exercise/16_PyEx.ipynb)
 *   filter() 
 *   List Comprehension 
 *   Dict Comprehension 
