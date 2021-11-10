@@ -62,9 +62,9 @@
 *   File Input Output
 #### 20-PyEx
 *   Modular Programming
-#### 21-PyEx
+#### [21-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/21_PyEx.ipynb)
 *   The Meaning of Underscore '_' 
 #### [22-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/22_PyEx.ipynb)
 *   Pathlib
-#### 23-PyEx
+#### [23-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/23_PyEx.ipynb)
 *   Error Handling
