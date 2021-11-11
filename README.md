@@ -47,6 +47,7 @@
 #### [14-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/14_PyEx.ipynb) :
 *   While Loop
 *   Break & Continue
+### Intermediate
 #### [15-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/15_PyEx.ipynb) :
 *   zip()
 *   map() 
@@ -62,6 +63,7 @@
 *   File Input Output
 #### 20-PyEx
 *   Modular Programming
+### Advanced
 #### [21-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/21_PyEx.ipynb)
 *   The Meaning of Underscore '_' 
 #### [22-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/22_PyEx.ipynb)
