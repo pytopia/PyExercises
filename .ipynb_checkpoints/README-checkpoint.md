@@ -74,3 +74,6 @@
 *   JSON
 #### [25-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/25_PyEx.ipynb)
 *   Decorators
+#### [26-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/26_PyEx.ipynb)
+*   Fancy Decorators
+*   @cache
