@@ -77,3 +77,8 @@
 #### [26-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/26_PyEx.ipynb)
 *   Fancy Decorators
 *   @cache
+
+
+## Numpy
+#### [Array Objects1](https://github.com/siniorone/PyExercises/blob/main/Numpy/Array_object1.ipynb) : 
+* ndarray basics
