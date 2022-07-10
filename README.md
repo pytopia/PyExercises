@@ -83,7 +83,6 @@
 #### [Array Objects 1](https://github.com/siniorone/PyExercises/blob/main/Numpy/Array_object1.ipynb) : 
 * ndarray basics
 
-002_Array_Creation_Routines1.ipynb
 #### [Array Creation Routines 1](https://github.com/siniorone/PyExercises/blob/main/Numpy/002_Array_Creation_Routines1.ipynb) : 
 * Converting Python sequences to NumPy Arrays
 * 1D array creation functions
