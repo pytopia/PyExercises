@@ -88,3 +88,8 @@
 * 1D array creation functions
 * 2D array creation functions
 * General ndarray creation functions
+
+#### [Indexing on ndarrays](https://github.com/siniorone/PyExercises/blob/main/Numpy/003_Indexing_on_ndarrays.ipynb) :
+* Basic indexing
+* Dimensional indexing tools
+* Advanced indexing
